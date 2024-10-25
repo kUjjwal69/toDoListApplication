@@ -1,20 +1,14 @@
 <<<<<<< HEAD
 # to_do_app
 
-A new Flutter project.
+A new Flutter project, Built with Flutter and Hive Database.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Here is the link to watch how my Application look alike
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I inspired with Mitch Koko to built this application. You can find him on Youtube
 =======
 # toDoListApplication
 Here I've Made To Do list Application in flutter
